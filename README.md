@@ -23,7 +23,7 @@ into a study plan and practice questions.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/paperpilot.git
+git clone https://github.com/Haniabatool72/paperpilot.git
 cd paperpilot
 pip install -r requirements.txt
 streamlit run app.py
